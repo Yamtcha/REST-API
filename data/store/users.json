@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Kelly Truter",
+    "role": "Team Lead and Dev"
+  },
+  {
+    "id": "2",
+    "name": "Yamkela",
+    "role": "Dev"
+  },
+  {
+    "id": "3",
+    "name": "Mlisela",
+    "role": "Dev"
+  },
+  {
+    "id": "4",
+    "name": "Sean",
+    "role": "Dev"
+  },
+  {
+    "id": "5",
+    "name": "Dillan",
+    "role": "Dev"
+  },
+  {
+    "id": "6",
+    "name": "Ayesha",
+    "role": "QA"
+  },
+  {
+    "id": "7",
+    "name": "Jackie",
+    "role": "QA"
+  }
+]
