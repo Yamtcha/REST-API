@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Kelly Truter",
+    "name": "Kelly",
     "role": "Team Lead and Dev"
   },
   {
@@ -20,11 +20,6 @@
     "role": "Dev"
   },
   {
-    "id": "5",
-    "name": "Dillan",
-    "role": "Dev"
-  },
-  {
     "id": "6",
     "name": "Ayesha",
     "role": "QA"
@@ -33,5 +28,10 @@
     "id": "7",
     "name": "Jackie",
     "role": "QA"
+  },
+  {
+    "id": "8",
+    "name": "Sean",
+    "role": "Dev"
   }
 ]
